@@ -14,7 +14,7 @@
   <a href="www.linkedin.com/in/gabriel-victor-897a04234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mr.dark.robot71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
+
 </div>
 
 <div align="center">
@@ -25,9 +25,13 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="java" height="55" width="55" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/java-icon.png">
+  <img align="center" alt="python" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/python-icon.png">
+  <img align="center" alt="c" height="50" width= 50" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/c-icon.png">
+  <img align="center" alt="c++" height="40" width="40" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/c%2B%2B-icon.png">
+  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/GitHub-icon.png">
+  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
 
@@ -39,5 +43,5 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
