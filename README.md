@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/GabrielConstantine">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielConstantine&theme=transparent&show_icons=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielConstantine&theme=transparent&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -43,5 +43,5 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+                   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> - <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
