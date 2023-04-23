@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Opa, Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Gabriel Constantine 🤖 </a>
+    <a href="https://www.linkedin.com/in/edududuribeiro/">Gabriel Constantine 🤖</a>
   </h1>
   
   <p align="center">
@@ -10,7 +10,6 @@
   </p>
   
 <div align="center">
-  <a href="https://www.instagram.com/gabriel_constatine//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-victor-897a04234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bfp%2F1rHIoSkW58t2AR0oxmw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mr.dark.robot71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -25,13 +24,13 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="java" height="55" width="55" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/java-icon.png">
-  <img align="center" alt="python" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/python-icon.png">
-  <img align="center" alt="c" height="50" width= 50" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/c-icon.png">
-  <img align="center" alt="c++" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/c%2B%2B-icon.png">
+  <img align="center" alt="Java" height="55" width="55" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/java-icon.png">
+  <img align="center" alt="Python" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/python-icon.png">
+  <img align="center" alt="Javascript" height="50" width= 50" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/JavaScript%20-%20JS.png">
+  <img align="center" alt="HTML" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/HTML5.png">
+  <img align="center" alt="CSS" height="50" width= 50" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/CSS.png">
   <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/GitHub-icon.png">
-  <img align="center" alt="linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
 
