@@ -30,7 +30,6 @@
   <img align="center" alt="HTML" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/HTML5.png">
   <img align="center" alt="CSS" height="50" width= 50" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/CSS.png">
   <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="45" width="45" src="https://github.com/GabrielConstantine/gabrielconstantine/blob/main/images/GitHub-icon.png">
 </div><br>
 
 
