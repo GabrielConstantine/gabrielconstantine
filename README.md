@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Opa, Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Gabriel Constantine 🤖</a>
+    <a href="https://www.linkedin.com/in/gabriel-victor-897a04234/">Gabriel Constantine 🤖</a>
   </h1>
   
   <p align="center">
